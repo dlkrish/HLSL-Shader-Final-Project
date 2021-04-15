@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>E:/School/Test/GraphicsClass/SimpleEngine/Content/Skybox.fx</SourceFile>
+  <SourceTime>2020-04-24T21:01:23.9436773-07:00</SourceTime>
+  <DestFile>E:/School/Test/GraphicsClass/SimpleEngine/Content/bin/Windows/Skybox.xnb</DestFile>
+  <DestTime>2020-04-28T03:05:53.1104149-07:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2017-03-01T08:05:36-07:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T08:05:36-07:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

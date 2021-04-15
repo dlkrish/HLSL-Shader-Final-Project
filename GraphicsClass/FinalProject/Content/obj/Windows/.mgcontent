@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/School/Test/GraphicsClass/FinalProject/Content/Shader.fx</File>
+    <File>E:/School/Test/GraphicsClass/FinalProject/Content/Font.spritefont</File>
+    <File>E:/School/Test/GraphicsClass/FinalProject/Content/Sphere.FBX</File>
+    <File>E:/School/Test/GraphicsClass/FinalProject/Content/Bunny.fbx</File>
+    <File>E:/School/Test/GraphicsClass/FinalProject/Content/Teapot.fbx</File>
+    <File>E:/School/Test/GraphicsClass/FinalProject/Content/Plane.fbx</File>
+    <File>E:/School/Test/GraphicsClass/FinalProject/Content/Cube.fbx</File>
+    <File>E:/School/Test/GraphicsClass/FinalProject/Content/Torus.fbx</File>
+    <File>E:/School/Test/GraphicsClass/FinalProject/Content/EdgeMap.fx</File>
+    <File>E:/School/Test/GraphicsClass/FinalProject/Content/canvas.fbx</File>
+  </SourceFiles>
+</SourceFileCollection>
